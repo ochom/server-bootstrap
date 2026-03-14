@@ -160,7 +160,7 @@ Internet → Caddy → first app (port 8080)
 Clone the repository and run the setup script:
 
 ```bash
-git clone https://github.com/yourusername/server-bootstrap.git
+git clone https://github.com/ochom/server-bootstrap.git
 cd server-bootstrap
 bash server-bootstrap.sh
 ```
@@ -168,7 +168,7 @@ bash server-bootstrap.sh
 Or run it directly from GitHub:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/server-bootstrap/main/server-bootstrap.sh | bash
+curl -sSL https://raw.githubusercontent.com/ochom/server-bootstrap/main/server-bootstrap.sh | bash
 ```
 
 ---
