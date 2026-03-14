@@ -1,4 +1,4 @@
-# Ubuntu Server Bootstrap Script
+# Ubuntu - Server Bootstrap Script
 
 This repository contains a simple bootstrap script for provisioning a fresh Ubuntu server.  
 It installs essential tools and prepares a basic Docker-based application hosting environment.
